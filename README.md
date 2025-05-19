@@ -68,4 +68,4 @@ Some minor improvements.
 Small highlighting fixes.
 
 #### **0.0.1**
-Draft release, highlighting & basic code snippets.
+Draft release, highlighting & basic code snippets.  
