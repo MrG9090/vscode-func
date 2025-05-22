@@ -1,4 +1,4 @@
- # FunC Language Support for VS Code
+  # FunC Language Support for VS Code
 
 This extension enables support for FunC in VS Code.
 
